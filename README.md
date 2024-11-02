@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Rafael Pimentel</h1>
-<h3 align="center">Offensive Security Professional (OSEP,OSCP,CRTO,CRTE,eJPT)</h3>
+<h3 align="center">Offensive Security Specialist (OSEP,OSCP,CRTO,CRTE,eJPT)</h3>
 
 - 🌱 I’m currently learning **Computer Science**
 - 📫 How to reach me **rafael@todosec.com**
