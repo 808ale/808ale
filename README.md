@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Rafael Pimentel</h1>
 <h3 align="center">Offensive Security Specialist (OSEP,OSCP,CRTO,CRTE,eJPT)</h3>
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **Malware Development**
 - 📫 How to reach me **rafael@todosec.com**
 - 🤜🤛 Connect with my team! [https://linktr.ee/hackerhermanos](https://linktr.ee/hackerhermanos)
 
