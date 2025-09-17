@@ -3,4 +3,4 @@
 
 My [public notes](https://offsecdiaries.com)
 
-Supercharge your offensive security journey with my free course [Knowledge Management Systems Free Course](https://github.com/808ale/Knowledge-Management-for-Offensive-Security-Professionals), out now!
+My free course [Knowledge Management Systems](https://github.com/808ale/Knowledge-Management-for-Offensive-Security-Professionals), out now!
