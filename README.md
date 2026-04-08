@@ -10,8 +10,6 @@
   Founder of <a href="https://explainthehack.com">ExplainTheHack</a>, a platform focused on helping security professionals communicate technical concepts clearly in interviews, reports, and real-world conversations.
 </p>
 
----
-
 ## Connect With Me
 
 - [LinkedIn](https://linkedin.com/in/rafa-pimentel)
